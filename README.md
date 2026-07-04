@@ -128,5 +128,17 @@ Two additional findings emerged from this page: **Toys carries the highest inven
 - **"Maven Toys"** is the retail chain's brand name — all 50 stores sell products across all 5 categories; "Toys" refers specifically to the product category, not the store type.
 
 ---
+![Overview](images/overview%20%282%29.png)
+
+![Profit](images/profit.png)
+
+![Seasonality](images/seasonality.png)
+
+![Stock & Inventory](images/stock_%26_inventory.png)
+
+![Store & Location](images/store_%26_location.png)
+
+
+
 
 *Built by Anas Khan — [GitHub](https://github.com/Akhan33-10) · [LinkedIn](https://linkedin.com/in/anas-khan-285415403)*
